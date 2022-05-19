@@ -19,7 +19,7 @@ samtranslator_logger.setLevel(logging.CRITICAL)
 
 class Transform(object):
     """
-    Application Serverless Module tranform Wrapper.
+    Application Serverless Module transform Wrapper.
     Based on code from AWS SAM CLI:
     https://github.com/awslabs/aws-sam-cli/blob/develop/samcli/commands/validate/lib/sam_template_validator.py
     """
